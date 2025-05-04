@@ -63,7 +63,7 @@ function App() {
       `${import.meta.env.BASE_URL}firstconditional`
     );
 
-    // Fetch for `Modals Possibility`
+    // Fetch for `Modals possibility`
     fetchDataHelper(
       dispatch,
       setLoadingModalsPossibility,

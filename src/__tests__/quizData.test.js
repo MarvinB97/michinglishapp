@@ -85,4 +85,5 @@ validateFolderCategory('linkwords');
 validateFolderCategory('verbs');
 validateFolderCategory('adjectives');
 validateFolderCategory('firstconditional');
-validateFolderCategory('modalspossibility')
+validateFolderCategory('modalspossibility');
+
